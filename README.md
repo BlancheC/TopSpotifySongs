@@ -12,12 +12,6 @@ The dataset we used for this analysis is the "Spotify top chart songs 2022" data
 
 I began by using a correlation matrix to identify relationships between variables. I then employed logistic regression, hierarchical clustering, k-means clustering, and random forest algorithms to build models predicting a song's peak rank.
 
-## Installation and Usage
-
-1. Clone this repository to your local machine using `https://github.com/BlancheC/Predicting-Top-Ranking-Songs.git`
-2. Install the necessary packages listed in `requirements.txt` using pip:
-   `pip install -r requirements.txt`
-3. Open the Jupyter Notebook (`Predicting_Top_Ranking_Songs.ipynb`) and run the cells to see the analysis and models in action.
 
 ## Results
 
